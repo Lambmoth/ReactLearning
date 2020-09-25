@@ -16,3 +16,8 @@
   justify-content: space-around;
   align-items: center;
 }
+
+.blue {
+  color: blue;
+  /* font-size: 20px; */
+}
